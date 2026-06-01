@@ -4,11 +4,11 @@ AgriSphere is an AI-powered agricultural companion designed to help farmers maxi
 
 ## Key Features
 
-*   ** AI Disease Detection:** Upload an image of an infected crop to get an instant diagnosis and expert treatment plan (Powered by Gemini 1.5 Flash).
-*   ** Crop Profitability Advisor:** Automatically detects location to fetch real-time weather and soil data, recommending the most profitable crops.
-*   ** Mixed Cropping Guide:** Smart suggestions for companion planting to improve yield and soil health.
-*   ** Government Schemes:** Instant access to relevant Indian agricultural schemes and subsidies based on state.
-*   ** Multi-Agent AI:** Uses **CrewAI** to coordinate specialized AI "agents" that act as virtual agricultural consultants.
+*   **AI Disease Detection:** Upload an image of an infected crop to get an instant diagnosis and expert treatment plan (Powered by Gemini 1.5 Flash).
+*   **Crop Profitability Advisor:** Automatically detects location to fetch real-time weather and soil data, recommending the most profitable crops.
+*   **Mixed Cropping Guide:** Smart suggestions for companion planting to improve yield and soil health.
+*   **Government Schemes:** Instant access to relevant Indian agricultural schemes and subsidies based on state.
+*   **Multi-Agent AI:** Uses **CrewAI** to coordinate specialized AI "agents" that act as virtual agricultural consultants.
 
 ##  Tech Stack
 
