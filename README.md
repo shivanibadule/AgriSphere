@@ -53,4 +53,4 @@ streamlit run streamlit_pages.py
 - `mycrew.py` & `config/`: AI Agent configurations for deep analysis.
 
 ---
-**Note:** This project was built for the YCCE Hackathon.
+
